@@ -3,7 +3,7 @@ Excel dashboard for sales and profit analysis
 
 # Project Overview
 
-This dashboard was built using Microsoft Excel and a structured sales database. The objective was to reduce reporting time by 60% and empower managers to make faster data-driven decisions.
+This dashboard was built using Microsoft Excel and a structured sales database. The objective was to **reduce reporting time by 60%** and **empower managers to make faster data-driven decisions**.
 
 It visualizes sales and profit trends across time, states, product categories, and customers.
 
