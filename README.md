@@ -42,4 +42,3 @@ The company aims to optimize its commercial operations using historical data. Th
 3. Review state-level pricing/logistics where high sales ≠ high margin.  
 4. Run targeted marketing in high-potential, underutilized regions.
 
-   
